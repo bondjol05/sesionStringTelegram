@@ -1,0 +1,12 @@
+{
+  "name": "telegram-login-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk mendapatkan session string",
+  "main": "bot.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10",
+    "sessions": "^0.0.2-7",
+    "telegram": "^2.26.22"
+  }
+}
